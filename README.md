@@ -62,7 +62,7 @@ Atuar como Analista de Sistemas ou Desenvolvedor Full Stack, contribuindo com so
 Este repositório contém meu portfólio profissional, desenvolvido com HTML, CSS e foco em apresentação moderna e experiência visual.
 
 Acesso ao site
-🔗 https://renatomeira-dev.github.io/portfolio/
+🔗 https://renatomeira-dev.github.io/curriculo-digital/
 
 ---
 
